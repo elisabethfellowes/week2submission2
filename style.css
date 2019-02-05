@@ -1,0 +1,35 @@
+body{
+    background-color:White;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color: White;
+  font-family: garamond;
+	color: #121E40;
+}
+
+p{
+  color: #121E40;
+  font-family: garamond;
+  text-align: center;
+}
+h1{
+  color: #406de6;
+  font-weight: 800;
+  text-align: center;
+  font-family: garamond;
+}
+
+  .current{
+    text-decoration: none;
+    color: #121E40;
+    text-transform: uppercase;
+  }
+  nav a {
+    text-decoration: none;
+    font-family: garamond;
+    font-weight: bold;
+    color: #34527F;
+  }
